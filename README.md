@@ -38,5 +38,3 @@ Supports both terminal and GUI input for nodes and edges.
 
    - Results appear in a popup window
 
-
-
